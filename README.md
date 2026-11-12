@@ -15,7 +15,12 @@ skills/website-clone/
 ```
 
 ## Install
-- **Claude Code:** copy `skills/website-clone` to `~/.claude/skills/`, or publish this repo as a plugin marketplace entry.
+- **Claude Code:**
+  ```bash
+  git clone https://github.com/sayyidaamri/master-clone
+  cp -r master-clone/skills/website-clone ~/.claude/skills/
+  ```
+  (PowerShell: `Copy-Item -Recurse master-clone\skills\website-clone $env:USERPROFILE\.claude\skills\`). Then start a new session and ask: "Use the website-clone skill to clone <url>".
 - **Other tools (Codex, Cursor, Gemini CLI, etc.):** copy `skills/website-clone` to the tool's skills folder, or paste `references/prompt-template.md` into the chat / rules file.
 
 ## Requirements

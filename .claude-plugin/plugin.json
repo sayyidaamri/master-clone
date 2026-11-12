@@ -1,0 +1,7 @@
+{
+  "name": "website-clone",
+  "version": "1.0.0",
+  "description": "Skill for rebuilding a reference website as an original site matching its look and behaviour 1:1, with read-only recon and side-by-side verification scripts.",
+  "license": "MIT",
+  "keywords": ["website-clone", "frontend", "playwright", "design", "skill"]
+}

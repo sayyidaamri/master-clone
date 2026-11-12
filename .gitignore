@@ -1,0 +1,4 @@
+node_modules/
+clone-output/
+clone.config.json
+.DS_Store

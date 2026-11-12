@@ -1,0 +1,10 @@
+Clone https://example.com 1:1. Pick a fitting new brand name yourself.
+
+- Images: Unsplash. Video: Pexels or Mixkit.
+- Sound (if needed): Mixkit free music/sound effects, Freesound, or Pixabay sound effects.
+- Follow the website-clone skill workflow.
+- Output: native HTML/CSS/JS (no hosting needed).
+- Also build every single/detail page, and all states (expanded items, modals, menus).
+- For things that cannot be read from code (e.g. canvas), analyse screenshots of that section to learn the behaviour.
+- If the site has sound, turn audio on and find out which elements make sound.
+- You may work until completely finished; no need to ask for approval along the way.

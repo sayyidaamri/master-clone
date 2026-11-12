@@ -1,0 +1,11 @@
+{
+  "reference": "https://example.com",
+  "local": "http://localhost:4321",
+  "pages": ["/", "/about", "/contact"],
+  "localPaths": {},
+  "viewports": [[1440, 900], [390, 844]],
+  "out": "clone-output",
+  "settleMs": 5000,
+  "cookieButton": "accept all|accept|agree|allow all",
+  "browser": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "clone-kit",
+  "private": true,
+  "type": "module",
+  "description": "Read-only research + side-by-side verification scripts for rebuilding a site's look and behaviour.",
+  "scripts": {
+    "recon": "node recon.mjs",
+    "styles": "node styles.mjs",
+    "interact": "node interact.mjs",
+    "shoot": "node shoot.mjs",
+    "audit": "node audit.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.48.2"
+  }
+}
